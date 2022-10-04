@@ -6,7 +6,7 @@ def scanner():
     ########### Scanner de portas UDP/ TCP ############
     ===================================================
     Versão: 1.0.0
-    Link do respositório: https://github.io
+    Link do respositório: https://github.com/Italo-Roberto/port_scanner_python
     Autor: Italo Roberto
     Data de criação: 04/10/2022
     ===================================================
