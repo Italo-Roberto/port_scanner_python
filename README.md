@@ -14,7 +14,7 @@
 <div>
     <strong>Instruções de utilização.</strong>
     <p>Realize o clone do repositório:</p>
-    `git clone https://github.com/Italo-Roberto/port_scanner_python`
+`git clone https://github.com/Italo-Roberto/port_scanner_python`
 
 <p>Execute o script (via cmd/terminal):</p>
     `python3 ./port_scanner_python/main.py`
