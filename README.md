@@ -1,35 +1,35 @@
 <h1>Port Scanner - Python</h1>
-<p>Scrit de checagem de portas UDP/TCP, utiliznado Python 3</p>
-<span>Versão: 1.0.0</span>
+<p>Checkage script for UDP/TCP, using Python 3</p>
+<span>Version: 1.0.0</span>
 <hr>
 
 <div>
-    <strong>Pré requisitos:</strong>
+    <strong>Requirements:</strong>
     <ul>
-        <li>Python 3.6 ou superior instalado.</li>
-        <li>Noção básica de endereçamento IP.</li>
+        <li>Python 3.6 or upper installed.</li>
+        <li>Basic knowlegment about IPV4 addressment.</li>
     </ul>
 </div>
 
 <div>
-    <strong>Instruções de utilização.</strong>
-    <p>Realize o clone do repositório:</p>
+    <strong>Basic instructions</strong>
+    <p>Clone this repository:</p>
  `git clone https://github.com/Italo-Roberto/port_scanner_python`
 
-<p>Execute o script (via cmd/terminal):</p>
+<p>Execute the script (with cmd/terminal):</p>
     `python3 ./port_scanner_python/main.py`
 
-<p>Será pedido IP/HOSTNAME do alvo a ser realizado teste:</p>
+<p>Will be asked IP/HOSTNAME from the target to use in this test:</p>
     `ex: 192.168.0.1 ou 127.0.0.1`
 
-<p>Aguarde execução do programa, serão exibidas apenas as portas que estiverem abertas no host alvo</p>
+<p>Wait the execution, will be only open ports in the target ip tested:</p>
 
-<p>Ao final da verificação o programa irá perguntar se deseja salvar em arquivo de texto o resultado do scanner:</p>
+<p>At end, the program will be ask if you wish save the scanner results in file text:</p>
     `===============================================================================
-    Deseja salvar a lista de portas encontradas em arquivo de texto na pasta atual?
+    Do you will wish to save this results in the current folder?
     s=SIM, n=Não
     ===============================================================================`
 
-<p>Se marcado 's' SIM, será gerado um arquivo texto com a potas abertas, se 'n' NÃO, o programa será encerrado</p>
+<p>If select 'y' YES, will be generated a file text with all open ports, if mark 'n' NO, the program will be closed:</p>
 
 </div>
